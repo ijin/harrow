@@ -1,0 +1,6 @@
+Host staging2 allin-sns-staging_002 sns-staging2
+ # Hostname 54.65.222.90
+ #  #Hostname 13.112.41.14
+ #   #Hostname 52.196.11.204
+  Hostname 54.178.237.167
+  User centos
